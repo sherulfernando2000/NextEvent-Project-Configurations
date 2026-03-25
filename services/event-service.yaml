@@ -6,10 +6,6 @@ spring:
   mongodb:
     uri: mongodb://root:M7PaHO5ngqVhzYOFHXhDntWuZNk79fP8ms7S36zY-ZNcOddq@4a9b4633-90a5-4ae4-bfe0-a628e6b6a963.asia-south2.firestore.goog:443/db-sdf?loadBalanced=true&tls=true&authMechanism=SCRAM-SHA-256&retryWrites=false
 
-
-#server:
-#  port: 8001
-
 server:
   port: 0
 

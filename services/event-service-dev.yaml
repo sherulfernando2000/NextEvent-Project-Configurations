@@ -11,9 +11,6 @@ spring:
     password: mongodb
     authentication-database: admin
 
-#server:
-#  port: 8001
-
 server:
   port: 0
 

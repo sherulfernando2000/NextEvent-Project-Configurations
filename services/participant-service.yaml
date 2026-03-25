@@ -24,10 +24,6 @@ servlet:
     max-file-size: 5MB
     max-request-size: 10MB
 
-#server:
-#  port: 8000
-#  forward-headers-strategy: framework
-
 server:
   port: 0
 
